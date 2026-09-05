@@ -95,7 +95,7 @@ The quickest way to evaluate the complete stack is with Docker Compose:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-org/lenny-growth-assistant.git
+   https://github.com/KATTA-RAM-SAI-KUMAR/lenny-growth-assistant.git
    cd lenny-growth-assistant
    ```
 
